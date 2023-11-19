@@ -2,7 +2,7 @@
 // of the accelerometer data coming from the phone.
 // No smoothing is applied to the data in this example.
 
-// where the serial server is (your local machine)
+// where the websockets server is (your local machine)
 const host = '127.0.0.1:8080';
 var socket; // the websocket
 

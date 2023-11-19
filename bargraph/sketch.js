@@ -1,7 +1,7 @@
 // Three bar graphs, representing the (smoothed)
 // accelerometer data from the phone
 
-// where the serial server is (your local machine)
+// where the websockets server is (your local machine)
 var host = '127.0.0.1:8080';
 var socket; // the websocket
 
